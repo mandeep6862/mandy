@@ -1,6 +1,6 @@
 {
   "name": "@mandeep6862/mandy",
-  "version": "1.0.0",
+  "version": "4.0.0",
   "description": "It's mandy, say Hello!!",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/mandeep6862/mandy/issues"
   },
-  "homepage": "https://github.com/mandeep6862/mandy#readme"
+  "homepage": "https://github.com/mandeep6862/mandy#readme",
+  "keywords": [
+    "mandy",
+    "npm",
+    "package",
+    "mandeep6862"
+  ]
 }
