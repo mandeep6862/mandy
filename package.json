@@ -1,0 +1,19 @@
+{
+  "name": "@mandeep6862/mandy",
+  "version": "1.0.0",
+  "description": "It's mandy, say Hello!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mandeep6862/mandy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mandeep6862/mandy/issues"
+  },
+  "homepage": "https://github.com/mandeep6862/mandy#readme"
+}
